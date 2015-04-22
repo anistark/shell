@@ -1,0 +1,13 @@
+{
+  "name": "Shell",
+  "type": "certified",
+  "role": "system",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Ben Francis",
+    "url": "https://webian.org/shell"
+  },
+  "permissions": {
+    "browser":{}
+  }
+}
